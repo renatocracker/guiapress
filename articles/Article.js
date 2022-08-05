@@ -23,4 +23,4 @@ Article.belongsTo(Category); // um artigo pertence a uma categoria | 1 => 1
 
 //Article.sync({force: true});
 
-module.exports = Category;
+module.exports = Article;
